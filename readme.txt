@@ -1,1 +1,1 @@
-This is EMD Dashboard
+This is Kaploans Website
