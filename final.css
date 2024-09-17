@@ -24,7 +24,7 @@ body
 }
 nav img
 {
-    width: 6.25rem;
+    width: 14.25rem;
     height:6.25rem;
 }
 
@@ -723,6 +723,7 @@ footer {
 
 #footer-image img {
     width: 300px;
+    padding-left: 20px;
 }
 
 #social-media img {
